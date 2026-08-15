@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+librouteros
+sqlalchemy
+apscheduler
+httpx
+python-dotenv
+pydantic
